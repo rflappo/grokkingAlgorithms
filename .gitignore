@@ -205,3 +205,27 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test results
+*.test
+*.out
+
+# Go module cache
+.cache/go-build/
+
+# IDE-specific files (examples)
+.idea/
+.vscode/
+*.swp
+*.bak
+
+# Dependency directories (if not using Go Modules)
+vendor/
+
+# Environment variables (if any are stored in files)
+.env
